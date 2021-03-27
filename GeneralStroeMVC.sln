@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneralStroeMVC", "GeneralStroeMVC\GeneralStroeMVC.csproj", "{B34778BB-AFA9-4B58-97C6-3C3A6E2F13DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B34778BB-AFA9-4B58-97C6-3C3A6E2F13DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B34778BB-AFA9-4B58-97C6-3C3A6E2F13DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B34778BB-AFA9-4B58-97C6-3C3A6E2F13DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B34778BB-AFA9-4B58-97C6-3C3A6E2F13DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE92CD83-E16D-4891-808D-DF4D765D52BF}
+	EndGlobalSection
+EndGlobal
